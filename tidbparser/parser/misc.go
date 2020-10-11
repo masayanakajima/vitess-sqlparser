@@ -16,8 +16,8 @@ package parser
 import (
 	"strings"
 
-	"github.com/blastrain/vitess-sqlparser/tidbparser/dependency/util/charset"
-	"github.com/blastrain/vitess-sqlparser/tidbparser/dependency/util/hack"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/dependency/util/charset"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/dependency/util/hack"
 )
 
 func isLetter(ch rune) bool {

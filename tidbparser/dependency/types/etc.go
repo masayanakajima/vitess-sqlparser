@@ -21,10 +21,10 @@ import (
 	"io"
 	"strings"
 
-	"github.com/blastrain/vitess-sqlparser/tidbparser/dependency/mysql"
-	"github.com/blastrain/vitess-sqlparser/tidbparser/dependency/terror"
-	"github.com/blastrain/vitess-sqlparser/tidbparser/dependency/util/charset"
-	"github.com/blastrain/vitess-sqlparser/tidbparser/parser/opcode"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/dependency/mysql"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/dependency/terror"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/dependency/util/charset"
+	"github.com/knocknote/vitess-sqlparser/tidbparser/parser/opcode"
 	"github.com/juju/errors"
 )
 
